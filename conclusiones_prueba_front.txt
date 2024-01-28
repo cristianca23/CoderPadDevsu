@@ -1,0 +1,24 @@
+Conclusiones de la prueba de Front E2E
+
+la página fue interesante, quise añadirle el módulo del login para que cada que se realizara la ejecución siempre ingresara con el usuario
+deje parametrizado para que en este caso se pudieran seleccionar 2 productos, pero también se puede mover el número de productos dentro
+del archivo.feature para seleccionar la cantidad de productos deseada
+
+El reto lo quise realizar en screenplay, ya que me parece un patron de diseño más acertado para este tipo de automatizaciones debido a su enfoque en la interacción del usuario y la claridad en la escritura de las pruebas. 
+
+
+Reusabilidad y Mantenimiento:
+
+El patrón de diseño Screenplay facilitó la reutilización de componentes y pasos de prueba, lo que podría resultar beneficioso para el mantenimiento a largo plazo.
+La modularización del código en actores, tareas y preguntas permitió una estructura más organizada y fácil de entender.
+
+
+Escalabilidad:
+
+La parametrización de la cantidad de productos seleccionados proporcionó flexibilidad y permitió que la prueba fuera escalable para probar diferentes escenarios con diversos números de productos.
+La capacidad de ajustar fácilmente el número de productos directamente desde el archivo .feature mejora la escalabilidad de la prueba
+
+Claridad en los Escenarios:
+
+Screenplay y cucumber proporcionó una estructura clara y legible para los escenarios de prueba, facilitando la comprensión de las acciones que realiza el usuario y las verificaciones asociadas.
+La escritura declarativa en los pasos de Screenplay mejora la legibilidad y comprensión de los casos de prueba.

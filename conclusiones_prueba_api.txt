@@ -1,0 +1,14 @@
+
+Conclusiones acerca de la Opción 2 de APIS
+
+Se me hizo muy interesante realizar la prueba como si fuera un flujo completo, es por eso que lo deje en un solo archivo.feature
+
+Además tuve la idea de poder realizar un poco aleatorio los nombres de las mascotas, para así irlos a comparar durante toda la prueba 
+
+Se me hizo un poco desafiante obtener la mascota por el estado "sold" debido a que en el body que devolvía era dinámico y se actualizaba
+cada cierto tiempo con las consultas que llegaban, lo que me hizo leer un poco la documentación de karate y buscar alternativas para 
+poder obtener la mascota que había modificado y así proceder a realizar las comparaciones pertinentes y necesarias de la prueba en sí 
+
+Tuve algunos inconvenientes ya en mi local que pude solucionar fácilmente, uno de estos inconvenientes fue que al realizar el tercer 
+escenario no me lo leía el test de ninguna manera, mi solución fue volver a compilar las librerías y pasarme a una versión más reciente 
+de karate 
