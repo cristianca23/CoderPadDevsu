@@ -1,3 +1,5 @@
+## ✅ Tecnologías
+
 # Proyecto Screenplay con Serenity y Java 17
 
 Este es un proyecto de ejemplo en donde se realiza el flujo para 2 compras dentro de la pagina demoblaze que utiliza el patrón de diseño Screenplay con el framework Serenity y Java 17 para realizar pruebas automatizadas.
@@ -13,12 +15,10 @@ Asegúrate de tener instalados los siguientes elementos antes de ejecutar el pro
 ## Clonar el Repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd NOMBRE_DEL_DIRECTORIO
+git clone https://github.com/cristianca23/CoderPadDevsu
 
 ```
-
-# Ejecutar las Pruebas
+# 🛠️ Ejecutar las Pruebas
 ### Desde la Línea de Comandos
 Para ejecutar las pruebas desde la línea de comandos, utiliza el siguiente comando:
 ```bash
