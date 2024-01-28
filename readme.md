@@ -15,11 +15,10 @@ Dentro de cada carpeta encontrarás un archivo README detallado con instruccione
 
 ### Proyecto Karate
 
-Dirígete a la carpeta `petstore-test-karate` para obtener más información sobre cómo ejecutar las pruebas con Karate. [Ver README del proyecto Karate](petstore-test-karate/README.md)
+Dirígete a la carpeta `petstore-test-karate` para obtener más información sobre cómo ejecutar las pruebas con Karate. [Ver README del proyecto Karate]([petstore-test-karate/README.md](https://github.com/cristianca23/CoderPadDevsu/blob/main/petstore-test-karate/readme.md))
 
 ### Proyecto Serenity
 
-Dirígete a la carpeta `RetoSaucedemo` para obtener más información sobre cómo ejecutar las pruebas con Serenity. [Ver README del proyecto Serenity](RetoSaucedemo/README.md)
-
+Dirígete a la carpeta `RetoSaucedemo` para obtener más información sobre cómo ejecutar las pruebas con Serenity. [Ver README del proyecto Serenity]([RetoSaucedemo/README.md](https://github.com/cristianca23/CoderPadDevsu/blob/main/readme.md))
 
 Te saluda Cris, un gusto 😀
